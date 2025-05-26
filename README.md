@@ -6,17 +6,17 @@
 
 ---
 
-## 📝 Project Title  
+##  Project Title  
 *How Visualization Type Influences Interpretation Accuracy and Speed Under Time Pressure*
 
 ---
 
-## 📌 Overview  
+##  Overview  
 This project investigates how different types of charts — including *bar, pie, radar, scatter, and bubble plots* — affect users’ ability to interpret data quickly and accurately under time pressure. Using data from a real-world *Shopping Mall Paid Search Campaign*, we conducted a timed experiment with 40 participants.
 
 We implemented visualizations in *Python (Matplotlib)* and *R (ggplot2)*, and compared the performance of each chart type using accuracy and response time.
 
-## 🧪 Methodology
+##  Methodology
 
 - *Dataset:* Shopping Mall Paid Search Campaign (Kaggle)
 - *Tools:* Python (Pandas, Matplotlib), R (tidyverse, ggplot2)
@@ -27,7 +27,7 @@ We implemented visualizations in *Python (Matplotlib)* and *R (ggplot2)*, and co
 
 
 
-## 🧠 Theoretical Framework
+##  Theoretical Framework
 
 - *Kahneman's Dual-Process Theory (2011)*
 - *Cognitive Load Theory (Sweller, 1988)*
@@ -35,8 +35,7 @@ We implemented visualizations in *Python (Matplotlib)* and *R (ggplot2)*, and co
 - *Tool Familiarity Hypothesis*
 
 ---
-
-## 🧪 Key Findings
+##  Key Findings
 
 - *Bar and Scatter Plots* outperformed other chart types in both speed and accuracy.
 - *Radar and Pie Charts* caused significant delays and interpretation errors.
@@ -48,7 +47,7 @@ We implemented visualizations in *Python (Matplotlib)* and *R (ggplot2)*, and co
 
 
 
-## 📄 Report
+##  Report
 
 For full results, statistical analysis, and visual comparisons:  
 
